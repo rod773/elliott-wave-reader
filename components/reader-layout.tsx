@@ -68,13 +68,13 @@ export function ReaderLayout({
         </div>
       </nav>
 
-      <div className="flex-1 container mx-auto px-4 md:px-6 py-8">
-        <div className="flex flex-col lg:flex-row gap-8">
+      <div className="flex-1 px-2 md:px-4 lg:pl-0 lg:pr-6 py-8">
+        <div className="flex flex-col lg:flex-row gap-6 lg:gap-8">
           <aside
             id="chapter-index"
-            className={cn("lg:w-72 flex-shrink-0", showIndex ? "block" : "hidden")}
+            className={cn("lg:w-56 xl:w-60 flex-shrink-0 lg:pl-2", showIndex ? "block" : "hidden")}
           >
-            <div className="sticky top-28 max-h-[calc(100vh-8rem)] overflow-y-auto pr-2 rounded-lg border border-input bg-background p-3">
+            <div className="sticky top-28 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-input bg-background p-2 lg:rounded-l-none lg:border-l-0">
               <h2 className="text-sm font-semibold text-muted-foreground uppercase tracking-wider mb-3">
                 Chapters
               </h2>
