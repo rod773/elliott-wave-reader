@@ -27,7 +27,7 @@ export function ReadAloudMenuBar() {
   } = useTTS()
 
   return (
-    <div className="flex items-center gap-2 flex-wrap">
+    <div className="flex items-center gap-2 flex-wrap bg-background">
       <span className="text-xs font-medium text-muted-foreground hidden xl:inline">Reading</span>
       <select
         value={selectedVoiceURI}

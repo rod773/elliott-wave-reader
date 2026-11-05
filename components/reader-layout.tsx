@@ -36,8 +36,8 @@ export function ReaderLayout({
 
   return (
     <div className="flex flex-col h-full">
-      <nav className="border-b border-input bg-background sticky top-0 z-20">
-        <div className="container mx-auto px-3 md:px-6 py-2 flex items-center justify-between gap-2 md:gap-3 flex-wrap">
+      <nav className="border-b border-input bg-background !bg-opacity-100 sticky top-0 z-20 isolate">
+        <div className="container mx-auto px-3 md:px-6 py-2 flex items-center justify-between gap-2 md:gap-3 flex-wrap bg-background">
           <div className="flex items-center gap-2 min-w-0">
             <Button
               type="button"
@@ -74,7 +74,7 @@ export function ReaderLayout({
             id="chapter-index"
             className={cn("lg:w-72 flex-shrink-0", showIndex ? "block" : "hidden")}
           >
-            <div className="sticky top-28 max-h-[calc(100vh-8rem)] overflow-y-auto pr-2 rounded-lg border border-input/50 bg-background/50 p-3">
+            <div className="sticky top-28 max-h-[calc(100vh-8rem)] overflow-y-auto pr-2 rounded-lg border border-input bg-background p-3">
               <h2 className="text-sm font-semibold text-muted-foreground uppercase tracking-wider mb-3">
                 Chapters
               </h2>
