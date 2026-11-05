@@ -1,0 +1,2884 @@
+{
+  "title": "Elliott Wave Theory: Rules, Charts & Patterns Explained",
+  "source": "Elliott Wave Forecast",
+  "pages": [
+    {
+      "id": "page-main",
+      "title": "Elliott Wave Theory: Rules, Charts And Patterns Explained",
+      "blocks": [
+        {
+          "type": "h1",
+          "text": "Elliott Wave Theory: Rules, Charts And Patterns Explained"
+        },
+        {
+          "type": "paragraph",
+          "text": "A free guide to Elliott Wave rules, five-wave and ABC structures, Fibonacci relationships and how to read a wave count with more context."
+        },
+        {
+          "type": "paragraph",
+          "text": "Last updated October 06, 2026"
+        },
+        {
+          "type": "h2",
+          "text": "What Is Elliott Wave Theory?"
+        },
+        {
+          "type": "h3",
+          "text": "Key Takeaways"
+        },
+        {
+          "type": "list-item",
+          "text": "Definition — Elliott Wave Theory maps price into motive and corrective wave patterns (the Elliott Wave Principle after R.N. Elliott)."
+        },
+        {
+          "type": "list-item",
+          "text": "Core pattern — Classical impulse is five waves (1-2-3-4-5). Classical correction is often an ABC zigzag; more complex cases use flats, triangles, or WXY / WXYXZ combinations."
+        },
+        {
+          "type": "list-item",
+          "text": "Hard rules — Wave 2 cannot fully retrace beyond the start of wave 1. Wave 3 is never the shortest impulse leg. In a standard impulse, wave 4 typically does not overlap wave 1 (diagonals differ)."
+        },
+        {
+          "type": "list-item",
+          "text": "Fibonacci — Retracements for wave 2/4 depth; extensions for wave 3/5/C reach. Clusters become Elliott Wave Forecast Blue Box reaction zones."
+        },
+        {
+          "type": "list-item",
+          "text": "Wave count — Elliott Wave analysis is a labeled scenario with a primary path, alternate path, and invalidation. It is a structure framework, not a guarantee."
+        },
+        {
+          "type": "list-item",
+          "text": "How to learn — Use this page and the free Mastery Bundle + Cheat Sheet, then practise reading structure on the free forecast pages and articles."
+        },
+        {
+          "type": "list-item",
+          "text": "Risk — Trading involves risk of loss. This page is education and market structure, not personalized financial advice."
+        },
+        {
+          "type": "h2",
+          "text": "The EWF Method — Classical Elliott Wave Applied To Modern Markets"
+        },
+        {
+          "type": "paragraph",
+          "text": "Takeaway: Ralph Nelson Elliott developed the foundation of Elliott Wave Theory in the 1930s. The language of motive waves, corrections, wave degrees, Fibonacci relationships, and fractal market structure remains central to the methodology."
+        },
+        {
+          "type": "paragraph",
+          "text": "EWF's approach is to apply those principles to the market structure actually developing on the chart rather than forcing every move into a perfect textbook pattern. That matters because markets do not always trend through clean five-wave impulses. Some advances develop through sequences that look corrective internally while still progressing with the larger trend."
+        },
+        {
+          "type": "paragraph",
+          "text": "EWF therefore focuses heavily on motive sequences, swing structure, Fibonacci relationships, and whether a sequence appears complete or incomplete."
+        },
+        {
+          "type": "h3",
+          "text": "What Still Matters"
+        },
+        {
+          "type": "list-item",
+          "text": "Motive versus corrective structure"
+        },
+        {
+          "type": "list-item",
+          "text": "Fibonacci relationships between swings"
+        },
+        {
+          "type": "list-item",
+          "text": "Fractal structure across timeframes"
+        },
+        {
+          "type": "list-item",
+          "text": "Alternation and channeling"
+        },
+        {
+          "type": "list-item",
+          "text": "Invalidation"
+        },
+        {
+          "type": "list-item",
+          "text": "Whether a sequence appears complete"
+        },
+        {
+          "type": "h3",
+          "text": "How EWF Applies It"
+        },
+        {
+          "type": "list-item",
+          "text": "Trends do not always need to appear as perfect five-wave impulses"
+        },
+        {
+          "type": "list-item",
+          "text": "Corrective-looking structures can still progress with the larger trend"
+        },
+        {
+          "type": "list-item",
+          "text": "The structure actually printing takes priority over forcing a textbook label"
+        },
+        {
+          "type": "list-item",
+          "text": "Blue Boxes identify potential Fibonacci reaction areas"
+        },
+        {
+          "type": "list-item",
+          "text": "Analysis is reassessed when price changes the structure"
+        },
+        {
+          "type": "h2",
+          "text": "Basic Principle Of Elliott Wave Theory"
+        },
+        {
+          "type": "paragraph",
+          "text": "Takeaway: Movement in the direction of the trend unfolds as a motive sequence; movement against the trend unfolds as a correction. Smaller patterns nest inside larger ones (fractal structure), which is why the same rules appear on monthly and 5-minute charts."
+        },
+        {
+          "type": "paragraph",
+          "text": "You'll see labels like 1-2-3-4-5, A-B-C, W-X-Y, different wave degrees, retracements, extensions, motive sequences. Elliott Wave can sound complicated, but the practical questions are far simpler: what direction does the current structure favour, where is the important area, is the sequence finished, and where does the current idea stop making sense?"
+        },
+        {
+          "type": "paragraph",
+          "text": "In the classical model, motive progress is labeled 1-2-3-4-5 and the three-wave correction is labeled A–B–C . Ideally, smaller patterns sit inside bigger patterns, like a piece of broccoli broken off the larger head. Coupled with Fibonacci relationships between waves, that structure gives traders a framework for anticipation and reward/risk."
+        },
+        {
+          "type": "paragraph",
+          "text": "Figure 1, Motive wave (impulse) and corrective wave (zigzag), with subdivisions."
+        },
+        {
+          "type": "h3",
+          "text": "The Five-Wave Pattern (Motive And Corrective)"
+        },
+        {
+          "type": "paragraph",
+          "text": "In Elliott's model, market prices alternate between an impulsive (motive) phase and a corrective phase on all time scales. Impulses subdivide into five lower-degree waves: waves 1, 3, and 5 are impulses; waves 2 and 4 are smaller retraces. Corrective waves typically subdivide into three smaller-degree waves, A–B–C."
+        },
+        {
+          "type": "paragraph",
+          "text": "In a bear market the dominant trend is downward, so the pattern is reversed, five waves down and three up in the classical description."
+        },
+        {
+          "type": "h3",
+          "text": "Wave Degree"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wave degree is the language used to identify cycles so an analyst can place a wave inside the larger progress of the market. Elliott described nine degrees from Grand Supercycle (weekly/monthly) down to Subminuette (intraday). EWF charts use a consistent degree scheme across instruments."
+        },
+        {
+          "type": "h2",
+          "text": "Fibonacci And Elliott Wave"
+        },
+        {
+          "type": "paragraph",
+          "text": "Takeaway: Fibonacci ratios measure how far a wave is likely to travel. Retracements frame pullbacks; extensions frame targets. EWF uses those levels to draw Blue Box reaction zones."
+        },
+        {
+          "type": "paragraph",
+          "text": "You may have seen 38.2%, 50%, 61.8%, 78.6%, 100%, 161.8%, and wondered which one you're supposed to use. That's exactly the problem. The number itself isn't the useful part, the useful part is understanding how the Fibonacci level fits into the current market structure. You don't need twenty colourful lines across the screen, you need to know which area matters for this particular setup."
+        },
+        {
+          "type": "h3",
+          "text": "Fibonacci Summation Series"
+        },
+        {
+          "type": "paragraph",
+          "text": "Leonardo Fibonacci's sequence (0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89...) produces the golden ratio ~1.618 when a number is divided by the previous one. Related ratios appear throughout nature and, empirically, in financial markets as areas of support and resistance."
+        },
+        {
+          "type": "paragraph",
+          "text": "Key Fibonacci ratios derived from the sequence."
+        },
+        {
+          "type": "list-item",
+          "text": "0.618 divide a number by the next (e.g. 8 ÷ 13)"
+        },
+        {
+          "type": "list-item",
+          "text": "0.382 divide by the number two places right (e.g. 34 ÷ 89)"
+        },
+        {
+          "type": "list-item",
+          "text": "1.618 golden ratio; divide by the prior number (e.g. 89 ÷ 55)"
+        },
+        {
+          "type": "list-item",
+          "text": "0.5 / 0.786 / 2.0+ widely watched companion levels in trading"
+        },
+        {
+          "type": "h3",
+          "text": "Retracement Vs Extension"
+        },
+        {
+          "type": "paragraph",
+          "text": "Retracement describes a counter-trend correction expected to end near Fibonacci support or resistance before the primary trend resumes. Extension describes continuation with the primary trend into Fibonacci target areas used for profit objectives."
+        },
+        {
+          "type": "paragraph",
+          "text": "Important Fibonacci retracement and extension ratios for financial markets."
+        },
+        {
+          "type": "h4",
+          "text": "Typical Impulse Relationships (Guidelines, Not Guarantees)"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave 2 , often 50%, 61.8%, 76.4%, or 85.4% of wave 1"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave 3 , often 161.8% (or more) of wave 1"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave 4 , often 14.6%, 23.6%, or 38.2% of wave 3"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave 5 , often an inverse 123.6–161.8% of wave 4, equal to wave 1, or 61.8% of waves 1–3"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traders use these relationships to plan entries and profit targets."
+        },
+        {
+          "type": "h2",
+          "text": "What Is A Blue Box?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Think of it as an area on the chart that deserves your attention. EWF combines the current wave structure with Fibonacci relationships to identify zones where a market reaction may become more likely. Instead of telling you \"maybe somewhere around here,\" you have a defined area to monitor. So rather than chasing the market after it has already moved, you can know which area is worth watching beforehand."
+        },
+        {
+          "type": "h2",
+          "text": "Motive Waves (And Motive Sequences)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Takeaway: Classically, a motive wave is a five-wave move with the larger trend (impulse, extended impulse, or diagonal). EWF also allows motive sequences that advance with the trend even when the internal shape is corrective, common in modern markets."
+        },
+        {
+          "type": "h3",
+          "text": "Impulse"
+        },
+        {
+          "type": "paragraph",
+          "text": "Figure, Impulse subdivided into five waves."
+        },
+        {
+          "type": "h4",
+          "text": "Impulse Guidelines"
+        },
+        {
+          "type": "list-item",
+          "text": "An impulse subdivides into 5 waves (1, 2, 3, 4, 5)"
+        },
+        {
+          "type": "list-item",
+          "text": "Waves 1, 3 and 5 are impulses and subdivide into ((i)), ((ii)), ((iii)), ((iv)), ((v))"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave 2 can't retrace more than the beginning of wave 1"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave 3 can't be the shortest of waves 1, 3 and 5"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave 4 does not overlap the price territory of wave 1"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave 5 needs to end with momentum divergence"
+        },
+        {
+          "type": "h4",
+          "text": "Fibonacci Ratio Relationship"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave 2 = 50%, 61.8%, 76.4% or 85.4% of wave 1"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave 3 = 161.8%, 200%, 261.8% or 323.6% of waves 1–2"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave 4 = 14.6%, 23.6% or 38.2% of wave 3, but no more than 50%"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave 5 = inverse 123.6–161.8% of wave 4, equal to wave 1, or 61.8% of waves 1–3"
+        },
+        {
+          "type": "paragraph",
+          "text": "Deep dive: Can wave 4 overlap wave 1?"
+        },
+        {
+          "type": "h3",
+          "text": "Impulse With Extension"
+        },
+        {
+          "type": "paragraph",
+          "text": "An extension is an impulse wave that is stretched out, with subdivisions almost as large as the other waves of the pattern. Usually only one of waves 1, 3 or 5 extends, and in stocks and forex it is most often wave 3."
+        },
+        {
+          "type": "paragraph",
+          "text": "Which wave extends? 1st  3rd  5th"
+        },
+        {
+          "type": "paragraph",
+          "text": "The extended wave is the one that subdivides into a clear five-wave structure of its own (labelled ((i)) to ((v)))."
+        },
+        {
+          "type": "list-item",
+          "text": "If waves 1 and 3 are about equal, expect wave 5 to extend"
+        },
+        {
+          "type": "list-item",
+          "text": "If wave 3 extends, waves 1 and 5 tend toward equality"
+        },
+        {
+          "type": "paragraph",
+          "text": "Extension within an extension wave 3 of 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "An extended wave can itself contain an extension. Here wave 3 extends, and wave (3) inside it extends again, which is why third waves are often the strongest part of a trend."
+        },
+        {
+          "type": "list-item",
+          "text": "Labels change size by degree: circled, then (1)-(5), then 1-5"
+        },
+        {
+          "type": "list-item",
+          "text": "Shallow pullbacks inside wave 3 are typical"
+        },
+        {
+          "type": "h4",
+          "text": "Extension Guidelines"
+        },
+        {
+          "type": "list-item",
+          "text": "Impulses usually have an extension in one of the motive waves (wave 1, 3 or 5)"
+        },
+        {
+          "type": "list-item",
+          "text": "Extensions are elongated impulses with exaggerated subdivisions"
+        },
+        {
+          "type": "list-item",
+          "text": "Extensions frequently occur in the third wave in stocks and forex; commodities commonly extend in the fifth wave"
+        },
+        {
+          "type": "h3",
+          "text": "Leading Diagonal"
+        },
+        {
+          "type": "paragraph",
+          "text": "Often appears as wave 1 of an impulse or wave A of a zigzag. Wedge shape; wave 1 and 4 may overlap."
+        },
+        {
+          "type": "h4",
+          "text": "Leading Diagonal Guidelines"
+        },
+        {
+          "type": "list-item",
+          "text": "A special type of motive wave that appears as wave 1 of an impulse or wave A of a zigzag"
+        },
+        {
+          "type": "list-item",
+          "text": "Usually wedge-shaped, with waves 1 and 4 overlapping, but overlap is not a condition"
+        },
+        {
+          "type": "list-item",
+          "text": "Subdivides 5-3-5-3-5 or 3-3-3-3-3"
+        },
+        {
+          "type": "h3",
+          "text": "Ending Diagonal"
+        },
+        {
+          "type": "paragraph",
+          "text": "An ending diagonal is a wedge-shaped pattern that appears at the end of a move: in wave 5 of an impulse or wave C of a correction. The internal waves overlap, and the end of the wedge is usually followed by a sharp reversal."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ending diagonal in wave 5 impulse"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wave (5) forms a rising wedge made of five smaller waves (1-5). Waves 1 and 4 overlap."
+        },
+        {
+          "type": "list-item",
+          "text": "Signals exhaustion of the trend"
+        },
+        {
+          "type": "list-item",
+          "text": "Price often returns quickly to the start of the wedge"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ending diagonal in wave C correction"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wave C of a correction can also end in a diagonal (i-ii-iii-iv-v) before the larger trend resumes."
+        },
+        {
+          "type": "list-item",
+          "text": "The break of the lower line confirms the end"
+        },
+        {
+          "type": "list-item",
+          "text": "A and B subdivide into three waves (a-b)"
+        },
+        {
+          "type": "h4",
+          "text": "Ending Diagonal Guidelines"
+        },
+        {
+          "type": "list-item",
+          "text": "A special type of motive wave that appears as wave 5 of an impulse or wave C of a zigzag"
+        },
+        {
+          "type": "list-item",
+          "text": "Usually wedge-shaped, with waves 1 and 4 overlapping, but overlap is not a condition"
+        },
+        {
+          "type": "list-item",
+          "text": "Subdivides 3-3-3-3-3 or 5-3-5-3-5"
+        },
+        {
+          "type": "paragraph",
+          "text": "Deep dive: Ending diagonal in Elliott Wave Theory"
+        },
+        {
+          "type": "h3",
+          "text": "Motive Sequence EWF"
+        },
+        {
+          "type": "paragraph",
+          "text": "Motive waves move with the primary trend, but in today's environment they do not always print as clean impulses. EWF prefers the term motive sequence : an incomplete sequence of swings. The internal structure can look corrective, yet the sequence of swings still tells you whether the move is finished or likely to extend."
+        },
+        {
+          "type": "paragraph",
+          "text": "If the number of swings matches a motive sequence count, expect the trend to extend further rather than forcing a five-wave label that the chart does not support. Markets today aren't always textbook-perfect, and rather than forcing the market to fit the theory, EWF focuses on the sequence that is actually printing. So instead of asking \"how can I force this into five waves,\" ask \"does the sequence look complete yet?\" That's much more useful when you're making an actual trading decision."
+        },
+        {
+          "type": "paragraph",
+          "text": "A motive sequence works much like the Fibonacci number sequence: if the number of swings on the chart is one of the numbers in the motive sequence, expect the current trend to extend further."
+        },
+        {
+          "type": "h4",
+          "text": "And If The Market Changes? You Don't Have To Start From Zero."
+        },
+        {
+          "type": "paragraph",
+          "text": "Markets don't always follow the expected path. That's normal. The important thing is knowing when the current interpretation needs to change. Invalidation levels help with that. If a shorter-term invalidation level is breached, the shorter-term path can be reassessed within the larger market picture. If an important daily or weekly invalidation breaks, the larger structure may need to be reconsidered. You don't have to cling to an old idea, you simply work with the updated one."
+        },
+        {
+          "type": "h2",
+          "text": "Wave Personality"
+        },
+        {
+          "type": "paragraph",
+          "text": "Takeaway: Each wave tends to carry a recognizable \"mood\", news, volume, and crowd behavior. Personality will not replace structure, but it helps you avoid buying late in wave 5 or panicking in a routine wave 2."
+        },
+        {
+          "type": "h3",
+          "text": "Waves 1 And 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wave 1 is rarely obvious at the start. Fundamentals often still look negative; the old trend is assumed intact. Volume may rise modestly."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wave 2 corrects wave 1 but cannot exceed its start. News is still bad; sentiment can turn very bearish near the low. Volume is typically lighter than wave 1; structure is usually three waves; deep Fib retracements are common."
+        },
+        {
+          "type": "h3",
+          "text": "Wave 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "Usually the strongest wave. News turns positive mid-move; pullbacks are shallow; traders waiting for a \"perfect dip\" often miss it. Breaks of the wave 1 high can trigger stops and gaps. Often extends wave 1 by ~1.618."
+        },
+        {
+          "type": "paragraph",
+          "text": "When the wave 3 rally takes out the top of wave 1, stops above that high are triggered, and gaps are often left open. Gaps are a good sign that a wave 3 is in progress."
+        },
+        {
+          "type": "h3",
+          "text": "Wave 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "Clearly corrective; often sideways and frustrating. Typically retraces less than 38.2% of wave 3. Volume is well below wave 3. For traders who understand the larger structure, it can be a planned pullback entry ahead of wave 5."
+        },
+        {
+          "type": "h3",
+          "text": "Wave 5"
+        },
+        {
+          "type": "paragraph",
+          "text": "Final leg with the trend. News is often euphoric; late money piles in. Volume may lag wave 3; momentum divergences are common. Strength is usually thinner than wave 3 even if price makes a new extreme."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wave 5 lacks the enthusiasm and strength of wave 3. The advance is driven by a smaller group of traders, so although price makes a new high above wave 3, momentum indicators often fail to confirm it (divergence)."
+        },
+        {
+          "type": "h3",
+          "text": "Waves A, B, And C"
+        },
+        {
+          "type": "paragraph",
+          "text": "A: Still often mistaken for a garden-variety pullback while fundamentals look fine. B: Bounce that fools many into calling a trend resumption; volume usually lighter than A. C: Impulsive leg that confirms the correction; volume rises; often equals or extends A by 1.618."
+        },
+        {
+          "type": "h2",
+          "text": "Corrective Waves"
+        },
+        {
+          "type": "paragraph",
+          "text": "Takeaway: Corrective patterns are more varied and harder to spot in real time than impulses. In modern markets, especially FX, both trend and counter-trend can unfold in three-wave shapes. EWF treats \"threes\" carefully and avoids forcing fives."
+        },
+        {
+          "type": "paragraph",
+          "text": "This is where a lot of traders struggle. Price goes down, they sell. Price bounces, they buy. It drops again, they sell again. And before long, they've been chopped in both directions. Corrections can be messy, they can develop through 3 swings, 7 swings, 11 swings, or more complex structures. You don't need to correctly name every correction while it is happening. What matters more is understanding whether the sequence appears complete, or whether another swing may still be missing."
+        },
+        {
+          "type": "paragraph",
+          "text": "Classical definition: corrections move against the trend of one greater degree. Five common families:"
+        },
+        {
+          "type": "list-item",
+          "text": "Zigzag (5-3-5) , sharp A–B–C against the trend"
+        },
+        {
+          "type": "list-item",
+          "text": "Flat (3-3-5) , sideways; B often retraces most or all of A"
+        },
+        {
+          "type": "list-item",
+          "text": "Triangle (3-3-3-3-3) , contracting or expanding consolidation"
+        },
+        {
+          "type": "list-item",
+          "text": "Double three / combination , linked corrective patterns (W–X–Y)"
+        },
+        {
+          "type": "list-item",
+          "text": "Triple three , rarer extended combination (W–X–Y–X–Z)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Corrective waves are better defined as waves that move in threes, never in fives; only motive waves are fives. They are more varied than impulses and often hard to identify until they are complete."
+        },
+        {
+          "type": "h3",
+          "text": "Zigzag (ABC Correction)"
+        },
+        {
+          "type": "paragraph",
+          "text": "The zigzag is the classic ABC correction : A is the first move against the trend and is often mistaken for a routine pullback, B is a weaker bounce that can look like the trend resuming, and C is the decisive leg that completes the correction. Not every correction is a single ABC; sideways corrections combine patterns as W-X-Y or W-X-Y-X-Z."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zigzag 5-3-5"
+        },
+        {
+          "type": "paragraph",
+          "text": "The sharpest correction. A and C are five-wave moves; B is a three-wave bounce."
+        },
+        {
+          "type": "h4",
+          "text": "Guidelines"
+        },
+        {
+          "type": "list-item",
+          "text": "Corrective 3-wave structure labelled ABC"
+        },
+        {
+          "type": "list-item",
+          "text": "Waves A and C subdivide into 5 waves, either impulse or diagonal"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave B can be any corrective structure"
+        },
+        {
+          "type": "h4",
+          "text": "Fibonacci ratio relationship"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave B = 50%, 61.8%, 76.4% or 85.4% of wave A"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave C = 61.8%, 100% or 123.6% of wave A"
+        },
+        {
+          "type": "list-item",
+          "text": "If wave C reaches 161.8% of wave A, it may be wave 3 of an impulse. Whether the third swing extends is one way to tell an ABC from an impulse"
+        },
+        {
+          "type": "paragraph",
+          "text": "Deep dive: ABC vs WXY structure"
+        },
+        {
+          "type": "h3",
+          "text": "Flats"
+        },
+        {
+          "type": "paragraph",
+          "text": "A flat is also labelled ABC, but it subdivides 3-3-5: wave A is a three-wave move instead of five. There are three types of flats: regular, expanded (irregular) and running. In all three, waves A and B can be any three-wave structure (zigzag, flat, double or triple three), wave C is a five-wave impulse or diagonal, and wave C needs momentum divergence."
+        },
+        {
+          "type": "paragraph",
+          "text": "Deep dive: The three types of Elliott Wave flats"
+        },
+        {
+          "type": "paragraph",
+          "text": "Regular flat 3-3-5"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sideways correction. Wave B ends near the start of wave A."
+        },
+        {
+          "type": "h4",
+          "text": "Guidelines"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave B terminates near the start of wave A"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave C generally terminates slightly beyond the end of wave A"
+        },
+        {
+          "type": "h4",
+          "text": "Fibonacci ratio relationship"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave B = 90% of wave A"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave C = 61.8%, 100% or 123.6% of wave AB"
+        },
+        {
+          "type": "paragraph",
+          "text": "Expanded flat 3-3-5"
+        },
+        {
+          "type": "paragraph",
+          "text": "The most common flat. Wave B makes a new extreme beyond the start of wave A."
+        },
+        {
+          "type": "h4",
+          "text": "Guidelines"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave B terminates beyond the starting level of wave A"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave C ends substantially beyond the end of wave A"
+        },
+        {
+          "type": "h4",
+          "text": "Fibonacci ratio relationship"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave B = 123.6% of wave A"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave C = 123.6% – 161.8% of wave AB"
+        },
+        {
+          "type": "paragraph",
+          "text": "Running flat 3-3-5"
+        },
+        {
+          "type": "paragraph",
+          "text": "A flat that signals a strong underlying trend: wave C falls short."
+        },
+        {
+          "type": "h4",
+          "text": "Guidelines"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave B terminates substantially beyond the start of wave A, as in an expanded flat"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave C fails to travel the full distance, falling short of the end of wave A"
+        },
+        {
+          "type": "h4",
+          "text": "Fibonacci ratio relationship"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave B = 123.6% of wave A"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave C = 61.8% – 100% of wave AB"
+        },
+        {
+          "type": "h3",
+          "text": "Triangles"
+        },
+        {
+          "type": "paragraph",
+          "text": "A triangle is a sideways movement associated with decreasing volume and volatility. It has five sides, each subdivided into three waves (3-3-3-3-3). There are four types: ascending, descending, contracting and expanding."
+        },
+        {
+          "type": "paragraph",
+          "text": "Deep dive: Elliott Wave triangle patterns: ascending, descending, contracting"
+        },
+        {
+          "type": "paragraph",
+          "text": "Triangle types in bull and bear markets 3-3-3-3-3"
+        },
+        {
+          "type": "paragraph",
+          "text": "The four triangle shapes in a rising market (left) and a falling market (right)."
+        },
+        {
+          "type": "h4",
+          "text": "Guidelines"
+        },
+        {
+          "type": "list-item",
+          "text": "Corrective structure labelled ABCDE"
+        },
+        {
+          "type": "list-item",
+          "text": "Usually happens in wave B or wave 4"
+        },
+        {
+          "type": "list-item",
+          "text": "Subdivides into threes (3-3-3-3-3)"
+        },
+        {
+          "type": "list-item",
+          "text": "RSI also needs to support the triangle in every time frame"
+        },
+        {
+          "type": "list-item",
+          "text": "Each leg can subdivide as abc, wxy or a flat"
+        },
+        {
+          "type": "h3",
+          "text": "Where Triangles Appear"
+        },
+        {
+          "type": "paragraph",
+          "text": "Triangles form just before the final move of a larger pattern. When the triangle completes, price usually breaks out with a sharp, fast move called a thrust , in the direction of the larger trend."
+        },
+        {
+          "type": "paragraph",
+          "text": "Triangle in wave 4 impulse"
+        },
+        {
+          "type": "paragraph",
+          "text": "The most common place for a triangle. It forms wave 4, and wave 5 follows as the thrust out of the triangle."
+        },
+        {
+          "type": "list-item",
+          "text": "Wave 5 is often about as long as the widest part of the triangle"
+        },
+        {
+          "type": "list-item",
+          "text": "A triangle in wave 4 means wave 5 is usually the last leg"
+        },
+        {
+          "type": "paragraph",
+          "text": "Triangle in wave B zigzag"
+        },
+        {
+          "type": "paragraph",
+          "text": "A triangle can also form wave B of a zigzag. Wave C then thrusts out of the triangle in the same direction as wave A."
+        },
+        {
+          "type": "list-item",
+          "text": "The thrust in C is usually fast"
+        },
+        {
+          "type": "list-item",
+          "text": "Triangles are rarely, if ever, seen in wave 2"
+        },
+        {
+          "type": "h3",
+          "text": "Double Three"
+        },
+        {
+          "type": "paragraph",
+          "text": "A double three is a sideways combination of two corrective patterns (zigzag, flat or triangle), joined by a connecting wave X."
+        },
+        {
+          "type": "paragraph",
+          "text": "Double three W-X-Y  7 swings"
+        },
+        {
+          "type": "paragraph",
+          "text": "In this example W is a flat and Y is a triangle."
+        },
+        {
+          "type": "h4",
+          "text": "Guidelines"
+        },
+        {
+          "type": "list-item",
+          "text": "A combination of two corrective structures labelled WXY"
+        },
+        {
+          "type": "list-item",
+          "text": "W and Y can be a zigzag, flat, or a double or triple three of smaller degree"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave X can be any corrective structure"
+        },
+        {
+          "type": "list-item",
+          "text": "WXY is a 7-swing structure"
+        },
+        {
+          "type": "h4",
+          "text": "Fibonacci ratio relationship"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave X = 50%, 61.8%, 76.4% or 85.4% of wave W"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave Y = 61.8%, 100% or 123.6% of wave W"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave Y can not pass 161.8% of wave W"
+        },
+        {
+          "type": "h4",
+          "text": "More double three combinations"
+        },
+        {
+          "type": "paragraph",
+          "text": "A flat and a zigzag"
+        },
+        {
+          "type": "paragraph",
+          "text": "Two double threes of lesser degree"
+        },
+        {
+          "type": "h3",
+          "text": "Triple Three"
+        },
+        {
+          "type": "paragraph",
+          "text": "A triple three is a sideways combination of three corrective patterns, joined by two X waves."
+        },
+        {
+          "type": "paragraph",
+          "text": "Triple three W-X-Y-X-Z  11 swings"
+        },
+        {
+          "type": "paragraph",
+          "text": "In this example the three patterns are a flat, a double three and a zigzag."
+        },
+        {
+          "type": "h4",
+          "text": "Guidelines"
+        },
+        {
+          "type": "list-item",
+          "text": "A combination of three corrective structures labelled WXYXZ"
+        },
+        {
+          "type": "list-item",
+          "text": "W, Y and Z can be a zigzag, flat, or a double or triple three of smaller degree"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave X can be any corrective structure"
+        },
+        {
+          "type": "list-item",
+          "text": "WXYXZ is an 11-swing structure"
+        },
+        {
+          "type": "h4",
+          "text": "Fibonacci ratio relationship"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave X = 50%, 61.8%, 76.4% or 85.4% of wave W"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave Z = 61.8%, 100% or 123.6% of wave W"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave Y can not pass 161.8% of wave W, or it may become an impulsive wave 3"
+        },
+        {
+          "type": "h2",
+          "text": "Keep Learning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Apply the theory on real markets next with these free pages."
+        },
+        {
+          "type": "list-item",
+          "text": "Gold forecast hub — XAU path, Blue Box zones, EW counts"
+        },
+        {
+          "type": "list-item",
+          "text": "Silver forecast hub — XAG structure and reaction areas"
+        },
+        {
+          "type": "list-item",
+          "text": "S&P 500 / SPX hub — Index path and wave counts"
+        },
+        {
+          "type": "list-item",
+          "text": "Free articles / blog — Ongoing market education and setups"
+        },
+        {
+          "type": "list-item",
+          "text": "WXY vs ABC guide — Corrective structure deep dive"
+        },
+        {
+          "type": "list-item",
+          "text": "Theory FAQ — Rules, PDF, ABC, Blue Box, terms"
+        },
+        {
+          "type": "h2",
+          "text": "How To Learn Elliott Wave Theory"
+        },
+        {
+          "type": "paragraph",
+          "text": "Follow this path instead of jumping straight into every label on a live chart."
+        },
+        {
+          "type": "list-item",
+          "text": "Learn the skeleton: five-wave motive (1-2-3-4-5) and three-wave ABC correction."
+        },
+        {
+          "type": "list-item",
+          "text": "Memorize the hard rules: wave 2 cannot take out the start of wave 1; wave 3 is never the shortest; standard impulse wave 4 vs wave 1 overlap rules (see FAQ)."
+        },
+        {
+          "type": "list-item",
+          "text": "Add Fibonacci: common retracements for 2 and 4; extensions for 3, 5, and C."
+        },
+        {
+          "type": "list-item",
+          "text": "Study Elliott Wave patterns: impulse, diagonals, zigzag ABC, flats, triangles, and combinations (WXY / WXYXZ)."
+        },
+        {
+          "type": "list-item",
+          "text": "Practice wave counts on one market with a written invalidation before adding more instruments."
+        },
+        {
+          "type": "list-item",
+          "text": "Use applied material: the free Mastery Bundle + Cheat Sheet and the worked examples in EWF articles."
+        },
+        {
+          "type": "list-item",
+          "text": "Apply it on hubs: read live structure on Gold, Silver, and S&P 500 / SPX forecast pages."
+        },
+        {
+          "type": "h2",
+          "text": "Elliott Wave Analysis And How To Read A Wave Count"
+        },
+        {
+          "type": "paragraph",
+          "text": "Elliott Wave analysis is the practice of labeling the active structure (the wave count), stating what should happen if the count is right, and defining what price would invalidate it. A useful count answers:"
+        },
+        {
+          "type": "list-item",
+          "text": "What is the larger degree trend or corrective context?"
+        },
+        {
+          "type": "list-item",
+          "text": "Which wave is unfolding now (for example wave 3, wave 4, or wave C)?"
+        },
+        {
+          "type": "list-item",
+          "text": "Where is the invalidation?"
+        },
+        {
+          "type": "list-item",
+          "text": "Where are Fibonacci reaction areas (including EWF Blue Boxes)?"
+        },
+        {
+          "type": "list-item",
+          "text": "What is the alternate count if the primary fails?"
+        },
+        {
+          "type": "paragraph",
+          "text": "That is how wave theory shows up in trading: structure first, then areas, then risk. It is a framework for scenarios, not a standalone \"set and forget\" Elliott Wave strategy that removes risk management."
+        },
+        {
+          "type": "h2",
+          "text": "The Elliott Wave Principle (R.N. Elliott)"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Elliott Wave Principle is the name often used for the body of work that began with Ralph Nelson Elliott and The Wave Principle (1938). In plain terms it is the same family of ideas as Elliott Wave Theory: fractal swings, motive vs corrective behavior, and patterned progress of markets over time. Modern desks (including Elliott Wave Forecast) keep the language and update how often real markets print clean five-wave trends versus three-wave advances, especially in forex and 24-hour markets."
+        },
+        {
+          "type": "h2",
+          "text": "Is Elliott Wave A Trading Strategy?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Many traders expect Elliott Wave to give exact entries and exits. It is better described as a market structure framework . A complete process still needs risk rules, position sizing, and clear invalidation."
+        },
+        {
+          "type": "h2",
+          "text": "Elliott Wave Theory PDF And Free Study Materials"
+        },
+        {
+          "type": "paragraph",
+          "text": "Looking for an Elliott Wave Theory PDF? Download the free Elliott Wave Trading Mastery Bundle (five guides) plus the bonus Elliott Wave Cheat Sheet, a one-page PDF-style reference for impulse rules, corrective patterns, Fibonacci ratios, and wave personality. Delivered by email, no card required."
+        },
+        {
+          "type": "h2",
+          "text": "Elliott Wave Theory, Common Questions (FAQ)"
+        },
+        {
+          "type": "paragraph",
+          "text": "What is Elliott Wave Theory in plain English? It is a framework that describes market prices as repeating wave patterns driven by crowd psychology. Trends advance in motive sequences; counter-moves correct in three-wave patterns. Traders combine those labels with Fibonacci to plan entries, invalidations, and targets."
+        },
+        {
+          "type": "paragraph",
+          "text": "Is it Elliott Wave or Elliot Wave? The correct spelling is Elliott Wave (two t's), named after Ralph Nelson Elliott. \"Elliot Wave\" with one t is a common misspelling; it refers to the same framework."
+        },
+        {
+          "type": "paragraph",
+          "text": "What are the three hard rules of an Elliott Wave impulse? 1. Wave 2 never retraces more than 100% of wave 1. 2. Wave 3 is never the shortest of waves 1, 3 and 5. 3. In a standard impulse, wave 4 does not enter the price territory of wave 1 (diagonals are the exception). If a count breaks any of these, the labels need to change."
+        },
+        {
+          "type": "paragraph",
+          "text": "What is the difference between motive and corrective waves? Motive waves travel with the larger trend and, classically, subdivide into five waves. Corrective waves travel against that trend and usually subdivide into three. EWF also recognizes motive sequences that can look corrective internally while still advancing the larger trend."
+        },
+        {
+          "type": "paragraph",
+          "text": "How do Fibonacci levels work with Elliott Wave? Fibonacci retracements estimate how deep a wave 2 or 4 pullback may go. Extensions estimate how far wave 3 or 5 (or C) may run. EWF turns clusters of those levels into Blue Box zones where a reaction is more likely."
+        },
+        {
+          "type": "paragraph",
+          "text": "What is a Blue Box? A Blue Box is a Fibonacci-based area marked on selected charts where the current structure suggests a reaction may become more likely. It gives you a defined area to monitor instead of simply knowing that the analyst is bullish or bearish."
+        },
+        {
+          "type": "paragraph",
+          "text": "What is the difference between ABC and WXY? ABC usually labels a single corrective pattern (for example a zigzag). WXY (double three) and WXYXZ (triple three) label combinations of corrective patterns linked by X waves."
+        },
+        {
+          "type": "paragraph",
+          "text": "Can wave 4 overlap wave 1? In a standard impulse, wave 4 should not enter the price territory of wave 1. Overlap is allowed in diagonal patterns."
+        },
+        {
+          "type": "paragraph",
+          "text": "Which timeframe is best for Elliott Wave analysis? There is no single best timeframe. Start with the larger picture (weekly or daily) to establish the main trend and degree, then move to 4-hour and 1-hour charts to label the active wave and set invalidation. Lower timeframes are noisier and need more frequent updates."
+        },
+        {
+          "type": "paragraph",
+          "text": "How do I start an Elliott Wave count on a chart? Pick a clear swing, label the larger context first, then the active wave, write the invalidation, and only then mark Fibonacci areas. If labels conflict with hard rules (for example wave 3 shortest), the count is wrong."
+        },
+        {
+          "type": "paragraph",
+          "text": "How reliable is Elliott Wave Theory? Elliott Wave is a framework for building scenarios, not a guarantee. Its value is in organising price action into a primary path, an alternate path and a clear invalidation level. Combined with Fibonacci and sound risk management, it helps traders decide where a view is right or wrong."
+        },
+        {
+          "type": "paragraph",
+          "text": "Is there an Elliott Wave Theory PDF I can download? You can get the free Elliott Wave Trading Mastery Bundle and the bonus Elliott Wave Cheat Sheet (a one-page PDF-style reference). That covers rules, corrective patterns, Fibonacci, and wave personality without requiring a paid plan."
+        },
+        {
+          "type": "paragraph",
+          "text": "How can I practice on live markets? Read public articles on the blog and news sections, study diagrams on this page, grab the free Mastery Bundle and bonus Cheat Sheet, then practise on the free Gold, Silver and S&P 500 forecast pages."
+        },
+        {
+          "type": "h2",
+          "text": "Historical Background"
+        },
+        {
+          "type": "paragraph",
+          "text": "Who was R.N. Elliott and where did the theory come from?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Elliott Wave Theory is named after Ralph Nelson Elliott (28 July 1871-15 January 1948), an American accountant and author. Inspired by Dow Theory and patterns in nature, he concluded that stock market movement could be anticipated by identifying repetitive wave patterns."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elliott analyzed markets in depth, documented wave characteristics, and published The Wave Principle in 1938. He built on Dow Theory's wave framing but emphasized the fractal nature of price action, smaller waves nesting inside larger ones."
+        },
+        {
+          "type": "h3",
+          "text": "The Rise Of Algorithmic Trading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Computer-based and algorithmic trading created a faster, more technical environment than the 1930s. That raises a fair question: can a 1930s framework still apply? EWF's answer is yes, with updated definitions of trend and counter-trend, especially outside pure equity bull markets."
+        },
+        {
+          "type": "h3",
+          "text": "What Is Changing In Today's Market"
+        },
+        {
+          "type": "paragraph",
+          "text": "Across stocks, forex, commodities, and bonds, five-wave motives still appear, but three-wave advances appear more often than many textbooks admit. Markets can trend in corrective structures: three waves, pullback, another three waves in the same direction. Forcing every trend into five waves leads to bad labels. EWF prioritizes what the chart is printing."
+        },
+        {
+          "type": "h2",
+          "text": "Watch On YouTube"
+        },
+        {
+          "type": "paragraph",
+          "text": "Short free lessons. These are also saved locally in the videos/ folder."
+        },
+        {
+          "type": "list-item",
+          "text": "1 Elliott Wave For Beginners (local)"
+        },
+        {
+          "type": "list-item",
+          "text": "2 Impulse Structure (local)"
+        },
+        {
+          "type": "list-item",
+          "text": "3 Flat Structure (local)"
+        },
+        {
+          "type": "list-item",
+          "text": "4 WXY Structure (local)"
+        },
+        {
+          "type": "list-item",
+          "text": "5 Triangle Structure (local)"
+        },
+        {
+          "type": "list-item",
+          "text": "6 Reading And Labelling Charts (local)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Original YouTube sources: Elliott Wave For Beginners (youtube.com/watch?v=Mlb2wO9IUzA) · Impulse Structure (youtube.com/watch?v=BNFRkdDL5tQ) · Flat Structure (youtube.com/watch?v=JM9jRoKyHmc) · WXY Structure (youtube.com/watch?v=u7FCh_MkX98) · Triangle Structure (youtube.com/watch?v=CT-t7FxVqcc) · Reading And Labelling Charts (youtube.com/watch?v=cfV_n5JqLs0)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Visit the EWF YouTube channel"
+        }
+      ]
+    },
+    {
+      "id": "page-overlap",
+      "title": "Elliott Wave Theory : Can Wave 4 overlap with Wave 1 ?",
+      "blocks": [
+        {
+          "type": "h1",
+          "text": "Elliott Wave Theory : Can Wave 4 overlap with Wave 1 ?"
+        },
+        {
+          "type": "paragraph",
+          "text": "By EWFHendra  March 29, 2021  4 min read"
+        },
+        {
+          "type": "h2",
+          "text": "The Overlap Rule in Elliott Wave Theory: A Common Misconception"
+        },
+        {
+          "type": "paragraph",
+          "text": "One of the most misunderstood rules in Elliott Wave Theory is the overlap rule between wave 1 and 4. This article explains the overlap theory so that hopefully more traders understand what this rule is all about. Before we explain further though, the short answer to the question is \"YES\". Overlap between wave 1 and 4 is allowed in a diagonal and it's actually pretty common as this structure happens everywhere."
+        },
+        {
+          "type": "h2",
+          "text": "Fractals and the Larger Degree Wave"
+        },
+        {
+          "type": "paragraph",
+          "text": "First of all, we need to understand what fractal means in Elliott Wave Theory. Fractal basically means that every wave is always part of a larger degree wave. Similarly, every wave can subdivide into smaller waves. Thus when you see an overlap between wave 1 and 4, the first question you need to ask is this: What's the larger degree wave for this overlap? This overlapping 5 waves must be part of another larger degree wave due to the fractal theory. So before you quickly jump into conclusion the count is wrong, you need to answer this question first. If the larger degree wave is either wave A, or wave C, or wave 1, or wave 5, then according to Elliott Wave Theory, you can have an overlapping 5 waves, and this overlapping wave is called a diagonal."
+        },
+        {
+          "type": "h2",
+          "text": "Impulse vs. Diagonal: Key Differences"
+        },
+        {
+          "type": "paragraph",
+          "text": "Within a 5 waves, understand there are two types: Impulse and diagonal. Impulse is what most beginner wavers understand to be 5 waves. Typically wave 3 in an impulse is the strongest and longest wave. The guideline suggests wave 3 is at least 161.8% Fibonacci extension of wave 1. Then wave 4 is a shallow pullback, typically between 23.6 – 38.2% retracement of wave 3. That's why wave 4 most of the time does not overlap with wave 1 in an impulse. A diagonal however looks like a wedge. In a diagonal (whether leading / ending diagonal), wave 1 must overlap with wave 4. In fact, overlap is the mandatory requirement of a diagonal."
+        },
+        {
+          "type": "paragraph",
+          "text": "There are two types of diagonal: leading vs ending diagonal. The difference is only in the subdivision. In a leading diagonal, it's an overlapping 5 waves in which the internal is 5-3-5-3-5. Ending diagonal on the other hand is an overlapping 5 waves in which the internal is 3-3-3-3-3. In EWF, we don't make the distinction between leading or ending diagonal that much. Both of them however allow the overlap between wave 1 and 4."
+        },
+        {
+          "type": "h2",
+          "text": "4 Valid Scenarios for Wave 1/Wave 4 Overlaps"
+        },
+        {
+          "type": "h3",
+          "text": "1. Diagonal Within Wave 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wave 1 Diagonal: Overlapping sub-waves ((i)) and ((iv)) are valid (5-3-5-3-5 or 3-3-3-3-3). Technically wave ((i)) and ((iv)) can overlap as it's the internal of wave 1 in larger degree."
+        },
+        {
+          "type": "h3",
+          "text": "2. Diagonal Within Wave A"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wave A Diagonal: Overlap permitted in zigzag corrections. Wave ((i)) and ((iv)) also can have an overlap as it's the internal of wave A zigzag in larger degree."
+        },
+        {
+          "type": "h3",
+          "text": "3. Diagonal Within Wave 5"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wave 5 Diagonal: Often called an \"ending diagonal\" (3-3-3-3-3 or 5-3-5-3-5). Wave ((i)) and ((iv)) can have an overlap as it's part of wave 5 in larger degree."
+        },
+        {
+          "type": "h3",
+          "text": "4. Diagonal Within Wave C"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wave C Diagonal: Valid in corrective sequences. Wave ((i)) can overlap with wave ((iv)) as it's the subdivision of wave C."
+        },
+        {
+          "type": "h2",
+          "text": "The One Exception: When Overlaps Are Invalid"
+        },
+        {
+          "type": "paragraph",
+          "text": "With so many exceptions allowing an overlap between wave 1 and 4, when exactly is it not permitted? There's only one case where an overlap between wave 1 and 4 is impossible: when the larger-degree wave is a wave 3. In this scenario, waves ((i)) and ((iv)) in the smaller degree cannot overlap. However, as the analysis shows, four out of five possible structures allow it, while just one prohibits it. This means overlap is not a strict rule in Elliott Wave Theory, since diagonals can form in most cases."
+        }
+      ]
+    },
+    {
+      "id": "page-ending-diagonal",
+      "title": "Elliott Wave Theory Structure; An Ending Diagonal",
+      "blocks": [
+        {
+          "type": "h1",
+          "text": "Elliott Wave Theory Structure; An Ending Diagonal"
+        },
+        {
+          "type": "paragraph",
+          "text": "By Arman Kumar  October 17, 2017  2 min read"
+        },
+        {
+          "type": "h2",
+          "text": "What is an Ending Diagonal in Elliott Wave Analysis?"
+        },
+        {
+          "type": "paragraph",
+          "text": "An ending diagonal is a type of impulsive motive wave in Elliott Wave Theory that occurs in the fifth wave's subdivision or within an entire C wave structure. An ending diagonal C wave or 5th wave commonly shows an obvious wedge shape with an overlapping wave 1 and wave 4. These subdivisions follow a 3-3-3-3-3 structure, but an overlapping wave 1 and wave 4 are not mandatory conditions. The overlap may or may not happen thus it is acceptable for there to not be any overlap. These structures will appear in either bullish or bearish markets in all time frames."
+        },
+        {
+          "type": "h2",
+          "text": "Key Characteristics of Ending Diagonal Waves"
+        },
+        {
+          "type": "paragraph",
+          "text": "The ending diagonal pattern in Elliott Wave Theory represents a special type of five-wave motive structure. Unlike standard impulses, its waves subdivide into 3-3-3-3-3 and always appears in wave 5 or C positions. Key identifying features include: Wave 3 cannot be the shortest (either Wave 1 or 5 is shorter), and it shows clear RSI divergence – bullish patterns show weakening momentum in Wave 5 versus Wave 3, while bearish versions display weaker momentum in Wave 3 compared to Wave 5. Traders watch for these patterns as reliable reversal signals in both stock and forex markets."
+        },
+        {
+          "type": "h2",
+          "text": "Where Ending Diagonals Typically Appear"
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep in mind a five wave motive, whether a regular impulse with the 5th wave being an ending diagonal or an ending diagonal wave C itself will be commonly seen in the larger double three combination structures such as in the C wave ending moves of zig-zags as well as in flats of each of the three types."
+        },
+        {
+          "type": "h2",
+          "text": "Ending Diagonal Pattern Examples"
+        },
+        {
+          "type": "paragraph",
+          "text": "Example of bullish ending diagonal pattern in wave 5 position"
+        },
+        {
+          "type": "paragraph",
+          "text": "Example of bearish ending diagonal pattern in wave C position"
+        }
+      ]
+    },
+    {
+      "id": "page-wxy",
+      "title": "Difference between WXY and ABC structure",
+      "blocks": [
+        {
+          "type": "h1",
+          "text": "Difference between WXY and ABC structure"
+        },
+        {
+          "type": "paragraph",
+          "text": "By EWF Vlada  July 10, 2026  9 min read"
+        },
+        {
+          "type": "h2",
+          "text": "Quick answer"
+        },
+        {
+          "type": "paragraph",
+          "text": "WXY (also called a double three ) is a 7-swing corrective Elliott Wave structure labeled W-X-Y. Each of W, X, and Y is corrective (typically 3-3-3), not a simple 5-3-5 zigzag. An ABC zigzag is a 3-swing correction with 5-3-5 internals. Treating every pullback as a finished ABC is a common trap when the market is still building a larger WXY."
+        },
+        {
+          "type": "paragraph",
+          "text": "Key question: Is this pullback a simple ABC (3 swings), or a larger WXY double three (7 swings)?"
+        },
+        {
+          "type": "h2",
+          "text": "Key Takeaways"
+        },
+        {
+          "type": "list-item",
+          "text": "WXY = double three = 7 swings ; W, X, and Y are corrective sequences (3-3-3 family)."
+        },
+        {
+          "type": "list-item",
+          "text": "ABC zigzag = 3 swings with 5-3-5 internals (A and C impulsive in a classic zigzag)."
+        },
+        {
+          "type": "list-item",
+          "text": "Bare chart label \"WXY\" means double three, not a random three-letter code."
+        },
+        {
+          "type": "list-item",
+          "text": "Double three is the plain-English name for the same WXY idea."
+        },
+        {
+          "type": "list-item",
+          "text": "Invalidation and full structure beat calling \"C done\" too early."
+        },
+        {
+          "type": "list-item",
+          "text": "EWF process often favors trading 3, 7, or 11 swings with the larger trend once structure confirms."
+        },
+        {
+          "type": "h2",
+          "text": "What Is WXY in Elliott Wave?"
+        },
+        {
+          "type": "paragraph",
+          "text": "WXY is the standard label for a double three correction: three corrective legs linked by an X connector (W, then X, then Y). In practice it often shows up as a 7-swing sequence against the larger trend."
+        },
+        {
+          "type": "paragraph",
+          "text": "Unlike a textbook zigzag, W, X, and Y are not required to be impulsive 5-wave legs . Each can be a zigzag, flat, triangle (with limits), or another corrective combination. That is why WXY corrections feel choppy and why traders who only look for clean ABC zigzags get stopped out or enter early."
+        },
+        {
+          "type": "paragraph",
+          "text": "Related: Elliott Wave Theory hub  WXYXZ / triple three  Zigzag & ABC guide"
+        },
+        {
+          "type": "h2",
+          "text": "Why Markets Print More WXY Than Clean ABC Today"
+        },
+        {
+          "type": "paragraph",
+          "text": "Markets are not identical to the 1930s textbook environment Ralph Nelson Elliott described. At Elliott Wave Forecast, long-term members see WXY (double three) as a very common corrective pattern in modern forex, indices, commodities, and stocks."
+        },
+        {
+          "type": "paragraph",
+          "text": "The trap: at the word \"correction,\" many practitioners only picture a zigzag ABC . When price is still working through W or X of a larger double three, that early \"C complete\" call fails."
+        },
+        {
+          "type": "h2",
+          "text": "ABC Zigzag vs WXY Double Three (Comparison)"
+        },
+        {
+          "type": "h2",
+          "text": "Elliott Wave Zigzag (ABC) Pattern"
+        },
+        {
+          "type": "paragraph",
+          "text": "A zigzag is a corrective pattern made of 3 swings with a 5-3-5 inner structure. It is labeled A-B-C , where:"
+        },
+        {
+          "type": "list-item",
+          "text": "A = 5 waves"
+        },
+        {
+          "type": "list-item",
+          "text": "B = 3 waves"
+        },
+        {
+          "type": "list-item",
+          "text": "C = 5 waves"
+        },
+        {
+          "type": "paragraph",
+          "text": "In a classic zigzag, A and C are impulsive and should meet impulse conditions (structure, Fibonacci relationships, and tools such as RSI divergence between subdivisions)."
+        },
+        {
+          "type": "h2",
+          "text": "Elliott Wave WXY (Double Three) Pattern"
+        },
+        {
+          "type": "paragraph",
+          "text": "Double three / WXY is one of the most important corrective patterns in how we apply Elliott Wave today. It is often described as a 7-swing structure ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wave subdivision is typically 3-3-3 : W, X, and Y are corrective sequences. Each of W, X, or Y can be a double three, triple three, zigzag, flat, triangle, or complex combination, with standard limits (for example, W is not a triangle in the usual teaching)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Diagram: (W)-(X)-(Y) labeling with corrective internals (lower degree may show w-x-y or a-b-c inside each leg)."
+        },
+        {
+          "type": "h3",
+          "text": "Live example: Russell (RTY_F), WXY on the 1-hour chart (completed)"
+        },
+        {
+          "type": "paragraph",
+          "text": "On the chart, the structure is counted as (W)-(X)-(Y) :"
+        },
+        {
+          "type": "list-item",
+          "text": "(W) , three-wave zigzag (abc)"
+        },
+        {
+          "type": "list-item",
+          "text": "(X) , recovery as a double three (abc)"
+        },
+        {
+          "type": "list-item",
+          "text": "(Y) , zigzag (abc)"
+        },
+        {
+          "type": "paragraph",
+          "text": "The completed double three supported the next move from the reaction area."
+        },
+        {
+          "type": "h3",
+          "text": "Live example: Gold (XAUUSD), WXY in progress (H4)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Source chart: EWF Group 1  4 Hour  instrument XAU A0-FX."
+        },
+        {
+          "type": "paragraph",
+          "text": "This is the in-progress teaching frame. On the H4 chart, Gold is counted inside a larger corrective sequence labeled (W)-(X)-(Y) of ((2)) :"
+        },
+        {
+          "type": "list-item",
+          "text": "(W)  complete (corrective three into the (W) low)"
+        },
+        {
+          "type": "list-item",
+          "text": "(X)  bounce in progress (path drawn as a corrective A-B-C recovery)"
+        },
+        {
+          "type": "list-item",
+          "text": "(Y)  lower still anticipated after (X) finishes"
+        },
+        {
+          "type": "list-item",
+          "text": "(X) invalidation  above $4697.07 (kills the preferred (X) bounce / (Y) lower path if violated)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Why this chart teaches WXY better than a textbook ABC-only pullback: after (W) finishes, price can still be building a larger double three . Treating the first three swings as a finished ABC and fading every bounce is the classic trap. Here the open path is still (X) then (Y) lower , with one clear invalidation."
+        },
+        {
+          "type": "h3",
+          "text": "Live example: Silver (XAGUSD), ABC zigzag on the 1-hour chart"
+        },
+        {
+          "type": "paragraph",
+          "text": "Clear zigzag recovery labeled ((a))-((b))-((c)) :"
+        },
+        {
+          "type": "list-item",
+          "text": "((a)) , 5-wave structure"
+        },
+        {
+          "type": "list-item",
+          "text": "((b)) , pullback as a double three (3 waves)"
+        },
+        {
+          "type": "list-item",
+          "text": "((c)) , 5-wave structure"
+        },
+        {
+          "type": "paragraph",
+          "text": "That zigzag completion framed the next directional bias on Silver in the original update."
+        },
+        {
+          "type": "h2",
+          "text": "How to Use WXY vs ABC in Practice"
+        },
+        {
+          "type": "list-item",
+          "text": "Count swings first , 3 clean swings with 5-3-5 character lean ABC zigzag; overlapping corrective threes lean incomplete WXY."
+        },
+        {
+          "type": "list-item",
+          "text": "Do not fade every bounce inside W or X of a larger double three."
+        },
+        {
+          "type": "list-item",
+          "text": "Prefer confirmation of the full corrective sequence when the market is complex (EWF focus: 3, 7, or 11 swings with the larger trend)."
+        },
+        {
+          "type": "list-item",
+          "text": "Write one invalidation , a level that kills the preferred count beats a strong opinion."
+        },
+        {
+          "type": "list-item",
+          "text": "When 7 swings become 11 , see triple three / WXYXZ."
+        },
+        {
+          "type": "h2",
+          "text": "FAQ"
+        },
+        {
+          "type": "paragraph",
+          "text": "What does WXY mean in Elliott Wave? WXY is the label for a double three correction: three corrective legs W, X, and Y. It is often a 7-swing structure. It is not the same as a simple 3-swing ABC zigzag."
+        },
+        {
+          "type": "paragraph",
+          "text": "What is the difference between WXY and ABC? ABC (classic zigzag) is typically 3 swings with 5-3-5 internals. WXY is a double three with corrective legs (often 3-3-3 ) and commonly 7 swings . ABC is simpler when it is truly complete; WXY describes many modern, choppier corrections."
+        },
+        {
+          "type": "paragraph",
+          "text": "Is double three the same as WXY? Yes. Double three is the descriptive name; WXY is the wave labeling for that pattern."
+        },
+        {
+          "type": "paragraph",
+          "text": "Why do traders get trapped labeling every pullback as ABC? Because zigzag ABC is the most taught correction. If price is still inside W or X of a larger WXY, calling \"C done\" is early. Structure and invalidation matter more than the first clean three swings."
+        },
+        {
+          "type": "paragraph",
+          "text": "When should I study WXYXZ instead? When the correction extends beyond a double three into a triple three (often discussed as 11 swings / WXYXZ)."
+        }
+      ]
+    },
+    {
+      "id": "page-flats",
+      "title": "Understanding the Three Types of Elliott Wave Flat Corrections",
+      "blocks": [
+        {
+          "type": "h1",
+          "text": "Understanding the Three Types of Elliott Wave Flat Corrections"
+        },
+        {
+          "type": "paragraph",
+          "text": "By Daud Bhatti  November 8, 2014  2 min read"
+        },
+        {
+          "type": "h2",
+          "text": "The Essential Structure of Wave Flats"
+        },
+        {
+          "type": "paragraph",
+          "text": "Flat corrections represent crucial 3-3-5 pullback patterns in Elliott Wave theory. These formations differ from zigzags by moving sideways before trend continuation. Three distinct types exist, each with unique characteristics."
+        },
+        {
+          "type": "h3",
+          "text": "1. Regular Flat Correction Pattern"
+        },
+        {
+          "type": "paragraph",
+          "text": "While we primarily show bullish examples here, it's important to note that the same structural patterns appear in bearish markets – simply inverted. In other words, every rule we discuss for uptrends applies equally but oppositely to downtrends. In a regular flat correction, wave \"(b)\" terminates about at the level of the beginning of wave (a), and wave (c) terminates a slight bit past the end of wave (a). Many times a flat like this, wave (c) of ((b)) will end around the equal legs of (a) to 123.6% Fibonacci extension of (a)."
+        },
+        {
+          "type": "h3",
+          "text": "2. Expanded (Irregular) Flat Pattern"
+        },
+        {
+          "type": "paragraph",
+          "text": "A more common variety called an irregular or expanded flat has a price extreme beyond that of the preceding ruling trend cycle peak. In expanded flats, after completion of the first swing against the trend in wave (a), wave (b) of the 3-3-5 pattern terminates beyond the starting level of wave ((a)), and wave (c) of ((b)) ends more substantially beyond the ending level of the initial wave (a) many times around the 123.6% to 161.8% Fibonacci extension of the initial wave (a)."
+        },
+        {
+          "type": "h3",
+          "text": "3. Running Flat Pattern"
+        },
+        {
+          "type": "paragraph",
+          "text": "The less common variation on the 3-3-5 flat pattern is called a running flat, wave (b) terminates well short of making a new price high against a ruling trend cycle peak or low in the (b) wave & price in the (c) of ((b)) will fail to reach the price extreme of the initial wave (a)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Diagram comparing regular, expanded, and running flat corrections in Elliott Wave Theory"
+        }
+      ]
+    },
+    {
+      "id": "page-triangles",
+      "title": "Elliott Wave Triangle Patterns: Ascending, Descending & Contracting – Complete Guide",
+      "blocks": [
+        {
+          "type": "h1",
+          "text": "Elliott Wave Triangle Patterns: Ascending, Descending & Contracting – Complete Guide"
+        },
+        {
+          "type": "paragraph",
+          "text": "By Elliott Wave Forecast  April 9, 2026  3 min read"
+        },
+        {
+          "type": "h2",
+          "text": "What Is a Triangle in Elliott Wave Theory?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Triangles are one of the most important corrective patterns in Elliott Wave Theory , helping traders identify consolidation phases and anticipate high-probability breakout opportunities."
+        },
+        {
+          "type": "paragraph",
+          "text": "These patterns consist of five waves (A-B-C-D-E) forming a 3-3-3-3-3 structure , typically appearing before the final move in a trend."
+        },
+        {
+          "type": "paragraph",
+          "text": "A triangle in Elliott Wave is a sideways corrective pattern that reflects a temporary balance between buyers and sellers before trend continuation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Triangles commonly appear in:"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave 4 of an impulse"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave B of a correction"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave X in complex structures"
+        },
+        {
+          "type": "h2",
+          "text": "Key Features of Triangle Patterns"
+        },
+        {
+          "type": "list-item",
+          "text": "5-wave structure (A-B-C-D-E)"
+        },
+        {
+          "type": "list-item",
+          "text": "Subdivides into 3-wave moves (corrective)"
+        },
+        {
+          "type": "list-item",
+          "text": "Forms converging or horizontal trendlines"
+        },
+        {
+          "type": "list-item",
+          "text": "Price action is sideways and overlapping"
+        },
+        {
+          "type": "list-item",
+          "text": "Ends with a strong breakout (terminal thrust)"
+        },
+        {
+          "type": "paragraph",
+          "text": "The breakout move is often equal to the widest part of the triangle ."
+        },
+        {
+          "type": "h2",
+          "text": "Types of Triangle Patterns in Trading"
+        },
+        {
+          "type": "h3",
+          "text": "1. Ascending Triangle (Bullish Continuation)"
+        },
+        {
+          "type": "paragraph",
+          "text": "An ascending triangle is a bullish pattern that forms during an uptrend."
+        },
+        {
+          "type": "paragraph",
+          "text": "Characteristics:"
+        },
+        {
+          "type": "list-item",
+          "text": "Higher lows (rising support)"
+        },
+        {
+          "type": "list-item",
+          "text": "Flat resistance level"
+        },
+        {
+          "type": "list-item",
+          "text": "Increasing buying pressure"
+        },
+        {
+          "type": "paragraph",
+          "text": "Trading Strategy:"
+        },
+        {
+          "type": "list-item",
+          "text": "Enter after breakout above resistance"
+        },
+        {
+          "type": "list-item",
+          "text": "Confirm with volume"
+        },
+        {
+          "type": "list-item",
+          "text": "Place stop-loss below support"
+        },
+        {
+          "type": "h3",
+          "text": "2. Descending Triangle (Bearish Continuation)"
+        },
+        {
+          "type": "paragraph",
+          "text": "A descending triangle is a bearish continuation pattern that signals downside movement."
+        },
+        {
+          "type": "paragraph",
+          "text": "Characteristics:"
+        },
+        {
+          "type": "list-item",
+          "text": "Lower highs (falling resistance)"
+        },
+        {
+          "type": "list-item",
+          "text": "Flat support level"
+        },
+        {
+          "type": "list-item",
+          "text": "Increasing selling pressure"
+        },
+        {
+          "type": "paragraph",
+          "text": "Trading Strategy:"
+        },
+        {
+          "type": "list-item",
+          "text": "Enter after breakdown below support"
+        },
+        {
+          "type": "list-item",
+          "text": "Use stop-loss above resistance"
+        },
+        {
+          "type": "list-item",
+          "text": "Measure target using pattern height"
+        },
+        {
+          "type": "h3",
+          "text": "3. Contracting Triangle (Neutral Consolidation)"
+        },
+        {
+          "type": "paragraph",
+          "text": "A contracting triangle forms when both trendlines converge, signaling decreasing volatility."
+        },
+        {
+          "type": "paragraph",
+          "text": "Characteristics:"
+        },
+        {
+          "type": "list-item",
+          "text": "Lower highs + higher lows"
+        },
+        {
+          "type": "list-item",
+          "text": "Declining volume"
+        },
+        {
+          "type": "list-item",
+          "text": "Gradual breakout"
+        },
+        {
+          "type": "paragraph",
+          "text": "Trading Strategy:"
+        },
+        {
+          "type": "list-item",
+          "text": "Watch B–D trendline break"
+        },
+        {
+          "type": "list-item",
+          "text": "Expect retest before continuation"
+        },
+        {
+          "type": "list-item",
+          "text": "Confirm with indicators"
+        },
+        {
+          "type": "h2",
+          "text": "Advanced Elliott Wave Triangle Insights"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave E may overshoot or undershoot trendlines"
+        },
+        {
+          "type": "list-item",
+          "text": "One subwave can form a smaller triangle"
+        },
+        {
+          "type": "list-item",
+          "text": "Running triangles occur when Wave B exceeds Wave A"
+        },
+        {
+          "type": "paragraph",
+          "text": "These variations often signal strong trend continuation ."
+        },
+        {
+          "type": "h2",
+          "text": "Common Mistakes Traders Make"
+        },
+        {
+          "type": "list-item",
+          "text": "Entering before breakout confirmation"
+        },
+        {
+          "type": "list-item",
+          "text": "Ignoring volume signals"
+        },
+        {
+          "type": "list-item",
+          "text": "Misidentifying wave structure"
+        },
+        {
+          "type": "list-item",
+          "text": "Trading triangles in Wave 2 (invalid)"
+        },
+        {
+          "type": "h2",
+          "text": "How to Trade Triangle Patterns Effectively"
+        },
+        {
+          "type": "paragraph",
+          "text": "To maximize accuracy:"
+        },
+        {
+          "type": "list-item",
+          "text": "Combine with RSI & MACD indicators"
+        },
+        {
+          "type": "list-item",
+          "text": "Confirm with Elliott Wave structure"
+        },
+        {
+          "type": "list-item",
+          "text": "Wait for strong breakout confirmation"
+        },
+        {
+          "type": "list-item",
+          "text": "Always use stop-loss"
+        },
+        {
+          "type": "h2",
+          "text": "FAQs"
+        },
+        {
+          "type": "paragraph",
+          "text": "What is a triangle in Elliott Wave? A triangle is a 5-wave corrective pattern that moves sideways before a trend continuation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Are triangles bullish or bearish? They can be both—ascending triangles are bullish, descending are bearish."
+        },
+        {
+          "type": "paragraph",
+          "text": "Where do triangles occur in Elliott Wave? Usually in Wave 4, Wave B, or Wave X."
+        },
+        {
+          "type": "paragraph",
+          "text": "How do you trade triangle breakouts? Wait for breakout confirmation with volume and enter in the direction of the trend."
+        },
+        {
+          "type": "paragraph",
+          "text": "Conclusion Elliott Wave triangle patterns are powerful tools for identifying market consolidation and breakout opportunities. By understanding ascending, descending, and contracting triangles, traders can improve timing, reduce risk, and trade with greater confidence."
+        }
+      ]
+    },
+    {
+      "id": "page-mastery",
+      "title": "Free Elliott Wave Theory PDF Bundle: 5 Guides + Cheat Sheet",
+      "blocks": [
+        {
+          "type": "h1",
+          "text": "Free Elliott Wave Theory PDF Bundle: 5 Guides + Cheat Sheet"
+        },
+        {
+          "type": "paragraph",
+          "text": "What If You Could Open A Chart And Know What You're Actually Looking For?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Five PDF guides and a one-page PDF cheat sheet that show you how to read wave structure, find Fibonacci targets and set your invalidation and risk before you trade."
+        },
+        {
+          "type": "paragraph",
+          "text": "Inside the bundle Elliott Wave Structures  Swing Patterns  Fibonacci Levels  Risk Management  Trading Strategies  Cheat Sheet"
+        },
+        {
+          "type": "list-item",
+          "text": "5 PDF Guides"
+        },
+        {
+          "type": "list-item",
+          "text": "37 Chapters"
+        },
+        {
+          "type": "list-item",
+          "text": "1 Cheat sheet"
+        },
+        {
+          "type": "list-item",
+          "text": "$0 No card needed"
+        },
+        {
+          "type": "h2",
+          "text": "Knowing The Tools Is Not The Same As Having A Plan"
+        },
+        {
+          "type": "paragraph",
+          "text": "Most traders have the pieces. The bundle gives you the framework that connects them."
+        },
+        {
+          "type": "paragraph",
+          "text": "What you may have Fibonacci + Support & resistance + Indicators + Trend lines  a trade plan "
+        },
+        {
+          "type": "paragraph",
+          "text": "What connects them A complete trading framework "
+        },
+        {
+          "type": "paragraph",
+          "text": "What you can answer"
+        },
+        {
+          "type": "list-item",
+          "text": "Is this move finished, or a correction?"
+        },
+        {
+          "type": "list-item",
+          "text": "Where could the correction end?"
+        },
+        {
+          "type": "list-item",
+          "text": "Where is the next target?"
+        },
+        {
+          "type": "list-item",
+          "text": "At what price is the idea wrong?"
+        },
+        {
+          "type": "list-item",
+          "text": "How much should I risk?"
+        },
+        {
+          "type": "h2",
+          "text": "Five Guides. One Trading Framework."
+        },
+        {
+          "type": "paragraph",
+          "text": "37 chapters that take you from wave rules to a complete trade plan, plus a cheat sheet to keep next to your charts."
+        },
+        {
+          "type": "h3",
+          "text": "Guide 01 — Elliott Wave Forecasting & Principles (8 chapters)"
+        },
+        {
+          "type": "paragraph",
+          "text": "The wave rules and structures behind every forecast."
+        },
+        {
+          "type": "list-item",
+          "text": "Impulse and corrective waves"
+        },
+        {
+          "type": "list-item",
+          "text": "3, 7 and 11 swing sequences"
+        },
+        {
+          "type": "list-item",
+          "text": "Where a wave count is invalid"
+        },
+        {
+          "type": "h3",
+          "text": "Guide 02 — A Beginner's Guide To Forex Trading (6 chapters)"
+        },
+        {
+          "type": "paragraph",
+          "text": "How the currency market works before you trade it."
+        },
+        {
+          "type": "list-item",
+          "text": "Currency pairs, pips and lots"
+        },
+        {
+          "type": "list-item",
+          "text": "What moves the forex market"
+        },
+        {
+          "type": "list-item",
+          "text": "Building a simple trading plan"
+        },
+        {
+          "type": "h3",
+          "text": "Guide 03 — Guide To Trading Stocks & ETFs (7 chapters)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Applying the same structure to stocks, indices and ETFs."
+        },
+        {
+          "type": "list-item",
+          "text": "Stock and ETF basics"
+        },
+        {
+          "type": "list-item",
+          "text": "Reading trend and structure"
+        },
+        {
+          "type": "list-item",
+          "text": "Planning entries and exits"
+        },
+        {
+          "type": "h3",
+          "text": "Guide 04 — 6 Best Trading Strategies Using Elliott Wave Theory (9 chapters)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Six ways to turn a wave count into a trade plan."
+        },
+        {
+          "type": "list-item",
+          "text": "Entries at the end of corrections"
+        },
+        {
+          "type": "list-item",
+          "text": "Fibonacci-based targets"
+        },
+        {
+          "type": "list-item",
+          "text": "Using swing sequences for direction"
+        },
+        {
+          "type": "h3",
+          "text": "Guide 05 — Risk Management In Trading (7 chapters)"
+        },
+        {
+          "type": "paragraph",
+          "text": "How to stay in the game when a trade goes wrong."
+        },
+        {
+          "type": "list-item",
+          "text": "Risk per trade and position size"
+        },
+        {
+          "type": "list-item",
+          "text": "Stop placement"
+        },
+        {
+          "type": "list-item",
+          "text": "Risk reward and drawdowns"
+        },
+        {
+          "type": "h2",
+          "text": "Free bonus — Elliott Wave Cheat Sheet (1 page)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep it next to your charts."
+        },
+        {
+          "type": "list-item",
+          "text": "Impulse rules and 5 corrective patterns"
+        },
+        {
+          "type": "list-item",
+          "text": "Fibonacci ratios for waves 2 to 5"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave personality for waves 1–5 and A, B, C"
+        },
+        {
+          "type": "h2",
+          "text": "Where Traders Usually Get Stuck"
+        },
+        {
+          "type": "paragraph",
+          "text": "Each problem has a guide that deals with it. Better to learn it here than with a live position open."
+        },
+        {
+          "type": "h2",
+          "text": "Mastery Bundle FAQs"
+        },
+        {
+          "type": "paragraph",
+          "text": "What is the Elliott Wave Trading Mastery Bundle? A free educational pack: five guides with 37 chapters in total, plus a one-page Elliott Wave cheat sheet. It teaches a method. It is not a signal service."
+        },
+        {
+          "type": "paragraph",
+          "text": "Is there a free Elliott Wave Theory PDF? Yes. The Elliott Wave Trading Mastery Bundle is a free set of five PDF guides (37 chapters) covering wave rules, 3-7-11 swing patterns, Fibonacci levels, multi-market basics and risk management. It also includes a printable one-page PDF Cheat Sheet. Enter your name and email and the PDFs are sent instantly. No credit card is needed."
+        },
+        {
+          "type": "paragraph",
+          "text": "What format are the guides? All five guides and the Cheat Sheet are PDF files delivered to your email. You can read them on your phone, tablet or desktop, save them for offline study, or print the Cheat Sheet to keep beside your charts."
+        },
+        {
+          "type": "paragraph",
+          "text": "Is it really free? Do I need a card? Yes, it is free and no card is needed. Enter your first name and email and the bundle is sent to your inbox. You can unsubscribe at any time."
+        },
+        {
+          "type": "paragraph",
+          "text": "Do I need to know Elliott Wave already? No. Guide 01 starts with the wave rules and structures, and the other guides build on it. If you already trade, the cheat sheet and strategy guide are quick references."
+        },
+        {
+          "type": "paragraph",
+          "text": "Is this financial advice? No. The bundle is educational content only. It is not financial advice, a brokerage or a signal feed. Trading involves a substantial risk of loss."
+        },
+        {
+          "type": "paragraph",
+          "text": "How is the bundle different from membership? The bundle teaches the method. Membership shows it applied to live charts, with updated Elliott Wave forecasts, Blue Box areas and Live Analysis Sessions."
+        }
+      ]
+    },
+    {
+      "id": "page-triple-three",
+      "title": "Mastering Triple Three Corrections in Elliott Wave Theory",
+      "blocks": [
+        {
+          "type": "h1",
+          "text": "Mastering Triple Three Corrections in Elliott Wave Theory"
+        },
+        {
+          "type": "paragraph",
+          "text": "By Arman Kumar  August 9, 2019  3 min read"
+        },
+        {
+          "type": "h2",
+          "text": "Triple Three Corrections"
+        },
+        {
+          "type": "paragraph",
+          "text": "Firstly, triple three corrections are a sideways combination of three corrective patterns in Elliott Wave Theory. These corrections are one of the five types of corrective patterns that correct the completed cycle of the prevailing trend. Zigzags (5-3-5), Flats (3-3-5), Triangles (3-3-3-3-3), Double threes which are a combination of two corrective patterns previously mentioned. Then lastly a Triple three that is a combination of three corrective patterns mentioned above. That structure is the focus of this particular article."
+        },
+        {
+          "type": "h2",
+          "text": "Triple Three Corrections Guidelines"
+        },
+        {
+          "type": "paragraph",
+          "text": "Secondly here are some guidelines. The corrective structures are labeled as WXYXZ. They are an 11 swing structure. The subdivision of wave W, wave Y, and wave Z can be a zigzag, a flat, a double three of smaller degree, or a triple three of smaller degree. The Wave X can be any corrective structure including a stand alone triangle."
+        },
+        {
+          "type": "h2",
+          "text": "Fibonacci Ratio Relationships"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Fibonacci ratio relationships are as follows. Wave X will retrace anywhere from 50%, 61.8%, 76.4%, or 85.4% of wave W. Wave Y can not pass 161.8% of wave W or it can become an impulsive wave three. The second wave X will retrace the wave Y in the same aforementioned Fibonacci retracement levels as it did the wave W. The second wave X structure does not have be the same structure as the first wave X. The Wave Z target area to finish the triple three correction will be a Fibonacci extension 61.8%, 100%, or 123.6% of the wave W."
+        },
+        {
+          "type": "h2",
+          "text": "Triple Three Chart Examples"
+        },
+        {
+          "type": "paragraph",
+          "text": "The graphic below is an example of three corrective structure combinations that can form triple three corrections. In this one wave W is an expanded flat with a zigzag connector first wave X. This is followed by a double three wave Y. The second wave X connector is a zigzag. Lastly the wave Z is also a zigzag."
+        },
+        {
+          "type": "paragraph",
+          "text": "Example 1: Triple three correction with expanded flat wave W and zigzag wave X"
+        },
+        {
+          "type": "paragraph",
+          "text": "The graphic below is another example of three corrective structure combinations that can form triple three corrections. In the same fashion this particular one is a double three wave W followed by the first wave X being a zigzag. Likewise as the wave W, the wave Y is a double three. This is followed by a zigzag second wave X connector. The wave Z ends with another double three."
+        },
+        {
+          "type": "paragraph",
+          "text": "Example 2: Triple three correction with double three patterns in waves W and Y"
+        },
+        {
+          "type": "h2",
+          "text": "Conclusion"
+        },
+        {
+          "type": "paragraph",
+          "text": "As has been noted triple threes are a combination of three corrective patterns. They can occur in either a bearish trending market or as in the illustrations shown above a bullish trending market."
+        }
+      ]
+    },
+    {
+      "id": "page-double-triple",
+      "title": "Understanding Double & Triple Combinations in Market Corrections",
+      "blocks": [
+        {
+          "type": "h1",
+          "text": "Understanding Double & Triple Combinations in Market Corrections"
+        },
+        {
+          "type": "paragraph",
+          "text": "By Elliott Wave Forecast  April 2, 2026  5 min read"
+        },
+        {
+          "type": "h2",
+          "text": "What Are Double and Triple Combinations?"
+        },
+        {
+          "type": "paragraph",
+          "text": "In Elliott Wave Theory, market corrections are rarely simple. While many traders expect clean zigzags or flats, real market behavior often unfolds in more complex corrective patterns known as double and triple combinations. These formations provide deeper insight into price action, market psychology, and potential future direction."
+        },
+        {
+          "type": "paragraph",
+          "text": "This guide breaks down how these patterns work, how to identify them, and how traders can use them to improve decision-making. To fully understand these structures, it's important to first learn the Elliott Wave Theory basics."
+        },
+        {
+          "type": "h2",
+          "text": "Double Combinations (W–X–Y)"
+        },
+        {
+          "type": "paragraph",
+          "text": "A double combination consists of two corrective structures connected by an X-wave, forming a 7-swing pattern . Wave W and Y can form structures like a zigzag pattern or a flat correction."
+        },
+        {
+          "type": "paragraph",
+          "text": "Key Characteristics"
+        },
+        {
+          "type": "list-item",
+          "text": "Structure: W–X–Y"
+        },
+        {
+          "type": "list-item",
+          "text": "Total swings: 7"
+        },
+        {
+          "type": "list-item",
+          "text": "Occurs when a single correction is insufficient"
+        },
+        {
+          "type": "list-item",
+          "text": "Appears across all timeframes"
+        },
+        {
+          "type": "paragraph",
+          "text": "Structure Rules"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave W and Y can be: Zigzag, Flat, Smaller double or triple corrections"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave X can be any corrective pattern"
+        },
+        {
+          "type": "list-item",
+          "text": "The pattern always begins with an ABC structure"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fibonacci Relationships"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave X retraces: 50% – 85.4% of W"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave Y extends: 61.8% – 123.6% of W"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave Y should NOT exceed 161.8% of W"
+        },
+        {
+          "type": "paragraph",
+          "text": "Common Double Combination Types"
+        },
+        {
+          "type": "list-item",
+          "text": "Flat  X  Triangle"
+        },
+        {
+          "type": "list-item",
+          "text": "Zigzag  X  Triangle"
+        },
+        {
+          "type": "list-item",
+          "text": "Flat  X  Zigzag"
+        },
+        {
+          "type": "list-item",
+          "text": "Zigzag  X  Flat"
+        },
+        {
+          "type": "paragraph",
+          "text": "Double combinations often appear when the market is correcting but lacks momentum, resulting in extended sideways movement."
+        },
+        {
+          "type": "h2",
+          "text": "Triple Combinations (W–X–Y–XX–Z)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Triple combinations are rare and highly complex, forming when even a double combination is not enough to complete a correction. Triple combinations often end with a triangle pattern, signaling prolonged consolidation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Key Characteristics"
+        },
+        {
+          "type": "list-item",
+          "text": "Structure: W–X–Y–XX–Z"
+        },
+        {
+          "type": "list-item",
+          "text": "Total swings: 11"
+        },
+        {
+          "type": "list-item",
+          "text": "Occurs in prolonged consolidation phases"
+        },
+        {
+          "type": "list-item",
+          "text": "Typically found in range-bound markets"
+        },
+        {
+          "type": "paragraph",
+          "text": "Structure Rules"
+        },
+        {
+          "type": "list-item",
+          "text": "Waves W, Y, Z can be: Zigzag, Flat, Complex corrections"
+        },
+        {
+          "type": "list-item",
+          "text": "Waves X and XX act as connectors"
+        },
+        {
+          "type": "list-item",
+          "text": "The pattern often ends with a triangle"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fibonacci Guidelines"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave X retracement: 50% – 85.4% of W"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave Z projection: 61.8% – 123.6% of W"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave Y must stay below 161.8% of W"
+        },
+        {
+          "type": "paragraph",
+          "text": "These ratios follow key Fibonacci relationships in trading."
+        },
+        {
+          "type": "paragraph",
+          "text": "Common Triple Combination Types"
+        },
+        {
+          "type": "list-item",
+          "text": "Flat  Zigzag  Triangle"
+        },
+        {
+          "type": "list-item",
+          "text": "Zigzag  Flat  Triangle"
+        },
+        {
+          "type": "list-item",
+          "text": "Zigzag  Zigzag  Triangle"
+        },
+        {
+          "type": "h2",
+          "text": "Core Rules for Complex Corrections"
+        },
+        {
+          "type": "paragraph",
+          "text": "To correctly identify these patterns, traders should follow these rules:"
+        },
+        {
+          "type": "list-item",
+          "text": "A combination never starts with a triangle"
+        },
+        {
+          "type": "list-item",
+          "text": "A triple combination always ends with a triangle"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave X should remain corrective (not impulsive)"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave Y must be comparable or larger than Wave X"
+        },
+        {
+          "type": "list-item",
+          "text": "X-waves typically retrace a large portion of the previous move"
+        },
+        {
+          "type": "h2",
+          "text": "How to Identify Double & Triple Combinations"
+        },
+        {
+          "type": "paragraph",
+          "text": "Here are practical tips for spotting these patterns in real time:"
+        },
+        {
+          "type": "list-item",
+          "text": "Look for sideways, overlapping price action"
+        },
+        {
+          "type": "list-item",
+          "text": "Count swings: 7 swings  Double combination; 11 swings  Triple combination"
+        },
+        {
+          "type": "list-item",
+          "text": "Watch for repeated corrections connected by smaller pullbacks"
+        },
+        {
+          "type": "list-item",
+          "text": "Identify whether the structure keeps extending instead of completing"
+        },
+        {
+          "type": "h2",
+          "text": "Why Double & Triple Combinations Matter for Traders"
+        },
+        {
+          "type": "list-item",
+          "text": "Better Market Interpretation — Recognize when the market is correcting vs. trending"
+        },
+        {
+          "type": "list-item",
+          "text": "Improved Entry & Exit Timing — Avoid premature trades during extended corrections"
+        },
+        {
+          "type": "list-item",
+          "text": "Enhanced Forecasting — Anticipate continuation once correction completes"
+        },
+        {
+          "type": "list-item",
+          "text": "Stronger Risk Management — Set more accurate stop-loss levels"
+        },
+        {
+          "type": "list-item",
+          "text": "Psychological Advantage — Stay patient during complex, slow-moving markets"
+        }
+      ]
+    },
+    {
+      "id": "page-zigzag",
+      "title": "Elliott Wave Zigzag Pattern: A Practical Guide to ABC Corrections",
+      "blocks": [
+        {
+          "type": "h1",
+          "text": "Elliott Wave Zigzag Pattern: A Practical Guide to ABC Corrections"
+        },
+        {
+          "type": "paragraph",
+          "text": "By EWF Vlada  September 29, 2026  8 min read"
+        },
+        {
+          "type": "h2",
+          "text": "The Elliott Wave Zigzag"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Elliott Wave Zigzag is one of the most common and useful corrective patterns in technical analysis. It is a relatively sharp correction that develops against the direction of the larger trend and often gives traders a structured way to estimate where the pullback may complete."
+        },
+        {
+          "type": "paragraph",
+          "text": "A Zigzag is a three-wave corrective structure labeled A-B-C ."
+        },
+        {
+          "type": "list-item",
+          "text": "Wave A starts the correction."
+        },
+        {
+          "type": "list-item",
+          "text": "Wave B forms a corrective retracement against wave A."
+        },
+        {
+          "type": "list-item",
+          "text": "Wave C completes the pattern."
+        },
+        {
+          "type": "paragraph",
+          "text": "Unlike many sideways corrective structures, a Zigzag usually develops with a clear directional slope. Because of this, it can sometimes look similar to an impulsive move while it is still developing."
+        },
+        {
+          "type": "paragraph",
+          "text": "The internal structure is what helps traders identify the pattern correctly."
+        },
+        {
+          "type": "h2",
+          "text": "How the Zigzag Structure Develops"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Zigzag has a 5-3-5 internal structure ."
+        },
+        {
+          "type": "paragraph",
+          "text": "This means:"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave A subdivides into 5 waves"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave B subdivides into a corrective structure"
+        },
+        {
+          "type": "list-item",
+          "text": "Wave C subdivides into 5 waves"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wave A and wave C can develop either as an Impulse or a Diagonal, while wave B can take the form of almost any corrective Elliott Wave structure."
+        },
+        {
+          "type": "paragraph",
+          "text": "This gives the Zigzag its basic structure: 5 waves in A  3 waves in B  5 waves in C . The important point is that waves A and C are motive structures, while wave B is corrective."
+        },
+        {
+          "type": "paragraph",
+          "text": "Key idea: A Zigzag is an ABC correction where waves A and C normally contain five waves, creating the characteristic 5-3-5 structure."
+        },
+        {
+          "type": "paragraph",
+          "text": "Because waves A and C are directional moves, Zigzags can produce relatively deep corrections compared with sideways patterns such as Flats or Double Threes."
+        },
+        {
+          "type": "h2",
+          "text": "Why the Zigzag Is Useful for Trading"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Zigzag is especially practical because traders can often estimate the potential ending area of wave C after waves A and B have already formed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Once wave A is complete and wave B develops its retracement, traders can use the Fibonacci Extension tool to project wave C. Wave A is measured and projected from the end of wave B."
+        },
+        {
+          "type": "paragraph",
+          "text": "Instead of entering randomly during a correction, traders can wait for price to reach the projected zone."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Zigzag can therefore provide:"
+        },
+        {
+          "type": "list-item",
+          "text": "A clearly defined corrective structure"
+        },
+        {
+          "type": "list-item",
+          "text": "Measurable Fibonacci targets"
+        },
+        {
+          "type": "list-item",
+          "text": "A potential completion zone for wave C"
+        },
+        {
+          "type": "list-item",
+          "text": "A framework for identifying invalidation"
+        },
+        {
+          "type": "list-item",
+          "text": "A structured area to look for the larger trend to resume"
+        },
+        {
+          "type": "h2",
+          "text": "Fibonacci Relationship of Wave B"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wave B represents the correction of wave A."
+        },
+        {
+          "type": "paragraph",
+          "text": "Common Fibonacci retracement levels include:"
+        },
+        {
+          "type": "list-item",
+          "text": "50%"
+        },
+        {
+          "type": "list-item",
+          "text": "61.8%"
+        },
+        {
+          "type": "list-item",
+          "text": "76.4%"
+        },
+        {
+          "type": "list-item",
+          "text": "85.4%"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wave B can occasionally be shallower or deeper depending on the market and the internal corrective structure. However, these levels provide useful reference points when evaluating whether the developing move still fits the characteristics of a Zigzag."
+        },
+        {
+          "type": "paragraph",
+          "text": "Because wave B itself is corrective, it can develop as a Zigzag, Flat, Triangle, Double Three, or another corrective combination. This is why wave B can sometimes take considerably more time to complete than traders initially expect."
+        },
+        {
+          "type": "h2",
+          "text": "Fibonacci Relationship of Wave C"
+        },
+        {
+          "type": "paragraph",
+          "text": "The most important projections usually come from the relationship between wave A and wave C."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wave C commonly reaches:"
+        },
+        {
+          "type": "list-item",
+          "text": "61.8% of wave A"
+        },
+        {
+          "type": "list-item",
+          "text": "100% of wave A"
+        },
+        {
+          "type": "list-item",
+          "text": "123.6% of wave A"
+        },
+        {
+          "type": "paragraph",
+          "text": "measured from the end of wave B."
+        },
+        {
+          "type": "paragraph",
+          "text": "Among these levels, the 100% extension is especially important. When wave C reaches approximately the same distance as wave A, the structure creates an Equal Legs relationship. This is one of the most common relationships found inside corrective market structures."
+        },
+        {
+          "type": "paragraph",
+          "text": "That projection creates the 100% Fibonacci extension and gives traders an objective area where wave C may complete."
+        },
+        {
+          "type": "h2",
+          "text": "The Importance of the 161.8% Extension"
+        },
+        {
+          "type": "paragraph",
+          "text": "One particularly important relationship appears when wave C becomes strongly extended."
+        },
+        {
+          "type": "paragraph",
+          "text": "If wave C reaches approximately 161.8% of wave A, traders need to become more cautious with the ABC interpretation. A very strong third swing can sometimes indicate that the move is not developing as a simple Zigzag at all."
+        },
+        {
+          "type": "paragraph",
+          "text": "Instead, what was initially labeled as A-B-C may actually be developing as 1-2-3 inside a larger five-wave Impulse. This distinction is extremely important."
+        },
+        {
+          "type": "paragraph",
+          "text": "A normal Zigzag wave C frequently reaches around 61.8%, 100%, or 123.6% of wave A. However, when the third swing becomes strongly extended toward or beyond 161.8%, the probability of an impulsive interpretation can increase."
+        },
+        {
+          "type": "paragraph",
+          "text": "This does not mean that reaching the 161.8% level automatically confirms an impulse. Market context, wave subdivision, cycle analysis, correlations, and the larger Elliott Wave structure must all be considered. However, this Fibonacci relationship can serve as an important warning that the original ABC interpretation may need to be reviewed."
+        },
+        {
+          "type": "h2",
+          "text": "Zigzag or Impulse? Understanding the Difference"
+        },
+        {
+          "type": "paragraph",
+          "text": "One of the more difficult situations for Elliott Wave traders occurs when the first three swings of a market move can be interpreted either as an ABC correction or as the beginning of a five-wave impulse."
+        },
+        {
+          "type": "paragraph",
+          "text": "Both structures can initially appear similar. A Zigzag develops as A-B-C while an Impulse begins as 1-2-3. The key difference becomes clearer when examining the internal wave structure and Fibonacci relationships."
+        },
+        {
+          "type": "h2",
+          "text": "Why Market Context Matters"
+        },
+        {
+          "type": "paragraph",
+          "text": "No Elliott Wave pattern should be analyzed in isolation. A three-wave move does not automatically mean that a Zigzag is complete."
+        },
+        {
+          "type": "paragraph",
+          "text": "Traders should consider:"
+        },
+        {
+          "type": "list-item",
+          "text": "The larger trend"
+        },
+        {
+          "type": "list-item",
+          "text": "Internal wave subdivisions"
+        },
+        {
+          "type": "list-item",
+          "text": "Fibonacci relationships"
+        },
+        {
+          "type": "list-item",
+          "text": "Correlation"
+        },
+        {
+          "type": "list-item",
+          "text": "Previous market structure"
+        },
+        {
+          "type": "list-item",
+          "text": "Important invalidation levels"
+        },
+        {
+          "type": "paragraph",
+          "text": "For example, a textbook ABC structure appearing against a strong larger bullish trend may provide a much more attractive setup than the same structure developing inside an unclear or sideways market."
+        },
+        {
+          "type": "h2",
+          "text": "Trading the Zigzag Structure"
+        },
+        {
+          "type": "paragraph",
+          "text": "A common mistake is trying to trade every swing while the correction is still developing. A more structured approach is to allow waves A and B to develop first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Once wave B is sufficiently advanced or complete, wave A can be projected from the end of wave B using the Fibonacci Extension tool. This gives traders objective areas to monitor for the potential completion of wave C."
+        },
+        {
+          "type": "paragraph",
+          "text": "The objective is not to predict the exact turning point. Instead, the goal is to identify an area where the probability of the correction completing becomes more favorable."
+        },
+        {
+          "type": "h2",
+          "text": "Final Thoughts"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Elliott Wave Zigzag is one of the fundamental corrective structures every Elliott Wave trader should understand."
+        },
+        {
+          "type": "paragraph",
+          "text": "Its A-B-C labeling, 5-3-5 internal structure, and measurable Fibonacci relationships make it one of the easier corrections to recognize once the basic principles are understood."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wave B commonly retraces 50%, 61.8%, 76.4%, or 85.4% of wave A, while wave C frequently reaches 61.8%, 100%, or 123.6% of wave A."
+        },
+        {
+          "type": "paragraph",
+          "text": "The 100% Equal Legs relationship is particularly useful when estimating a potential completion area."
+        },
+        {
+          "type": "paragraph",
+          "text": "At the same time, traders should pay close attention when the third swing extends toward 161.8% of the first swing, because the market may be developing wave 3 of an Impulse instead of wave C of a Zigzag."
+        },
+        {
+          "type": "paragraph",
+          "text": "The real advantage of understanding the Zigzag is not simply being able to label A, B, and C. It is knowing how to combine market structure, Fibonacci relationships, and the larger trend to identify where a correction may finish and where the next trading opportunity may begin."
+        }
+      ]
+    },
+    {
+      "id": "page-impulse",
+      "title": "Elliott Wave Impulse Pattern: How to Correctly Identify the 5-Wave Structure",
+      "blocks": [
+        {
+          "type": "h1",
+          "text": "Elliott Wave Impulse Pattern: How to Correctly Identify the 5-Wave Structure"
+        },
+        {
+          "type": "paragraph",
+          "text": "By EWF Vlada  July 7, 2026  3 min read"
+        },
+        {
+          "type": "h2",
+          "text": "5 Wave Impulse Rules"
+        },
+        {
+          "type": "paragraph",
+          "text": "Many Elliott Wave traders believe that markets are always moving in 5 waves, but this is not the case. Nowadays, many markets spend a significant amount of time in corrective structures, which often develop in 3, 7, or 11 swings. In today's markets, impulsive structures can be harder to identify and must meet all Elliott Wave rules before being considered valid."
+        },
+        {
+          "type": "paragraph",
+          "text": "Failing to follow these rules can lead to incorrect wave counts and a false market bias. A wrongly identified 5-wave impulse can result in expecting the market to move in the wrong direction and making poor trading decisions."
+        },
+        {
+          "type": "h3",
+          "text": "1. Wave 1, 3 and 5"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wave 1, 3 and 5 must be also impulsive structures."
+        },
+        {
+          "type": "h3",
+          "text": "2. Wave 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wave 2 must retrace less than 100% of wave 1 and it usually ends at 50-76.4 Fibonacci retracement area. It can't be a triangle structure."
+        },
+        {
+          "type": "h3",
+          "text": "3. Wave 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wave 3 cannot be the shortest one and it's usually the strongest. It should extend 1.618 Fibonacci extension of wave 1 and it could go up to 2.618 Fib extension or more."
+        },
+        {
+          "type": "h3",
+          "text": "4. Wave 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wave 4 is usually a shallow correction which should ideally end at 23.6 fib retracement area. It could go to 38.2 fib retracement as well but it must not break below/above 50 Fibonacci retracement from the start of wave 3."
+        },
+        {
+          "type": "h3",
+          "text": "5. RSI Divergence"
+        },
+        {
+          "type": "paragraph",
+          "text": "There always must be RSI divergence between wave 5 and wave 3 and each impulsive subdivision (wave 1, wave 3 and wave 5) should have RSI divergence in its internals."
+        }
+      ]
+    }
+  ]
+}
